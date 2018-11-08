@@ -1,0 +1,14 @@
+div.floatLeft img{
+  background-color: blue;
+  width: auto;
+  height: auto;
+  foreground-color:green;
+  float:left;
+}
+div.floatRight img{
+  background-color: blue;
+  width: auto;
+  height: auto;
+  foreground-color:green;
+  float:right;
+}
